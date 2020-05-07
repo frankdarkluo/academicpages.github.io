@@ -35,11 +35,11 @@ Memorable Experience
 
 * Took part in "Internet Plus" College Students Innovation and Entrepreneurship Competition Exhibition in Hangzhou, China! [12/10/2019--14/10/2019]
 
-* Participated in CUMCM 2019, read it from my [article](https://mp.weixin.qq.com/s?__biz=MzUwOTgyMTQxMA==&mid=2247484046&idx=1&sn=7d2f5ee10ba87a097577950bf8c13082&chksm=f90d2a03ce7aa3153e2fe5a8d103bf2335862f0e843fcfcf2bc9914b5f937684ca02aeaef332&scene=126&sessionid=1588683396&key=460806c790ad44b46a096eb3f7df36b97bac6e6d688f6e606628ea54638fa31031225367afb76b211ab6f1648043f1328d000a8e36d565e2556470ecbb83243674eeead5f92d7581e122a947fc9878c4&ascene=1&uin=MjA5NDMxNTA3Nw%3D%3D&devicetype=Windows+10+x64&version=6209006c&lang=zh_CN&exportkey=AZZ0AZaU8KCnejRuvYmaPMw%3D&pass_ticket=wnV5%2FWvPrb5QKSSSuaFG%2FGsVxNTHtsRUm%2FPdxug%2FVjlQ4onDdGLtDUR2FTofbyxZ)[12/09/2019--15/09/2019]
+* Participated in CUMCM 2019, read it from my [article](https://mp.weixin.qq.com/s?__biz=MzUwOTgyMTQxMA==&mid=2247484046&idx=1&sn=7d2f5ee10ba87a097577950bf8c13082&chksm=f90d2a03ce7aa3153e2fe5a8d103bf2335862f0e843fcfcf2bc9914b5f937684ca02aeaef332&scene=126&sessionid=1588683396&key=460806c790ad44b46a096eb3f7df36b97bac6e6d688f6e606628ea54638fa31031225367afb76b211ab6f1648043f1328d000a8e36d565e2556470ecbb83243674eeead5f92d7581e122a947fc9878c4&ascene=1&uin=MjA5NDMxNTA3Nw%3D%3D&devicetype=Windows+10+x64&version=6209006c&lang=zh_CN&exportkey=AZZ0AZaU8KCnejRuvYmaPMw%3D&pass_ticket=wnV5%2FWvPrb5QKSSSuaFG%2FGsVxNTHtsRUm%2FPdxug%2FVjlQ4onDdGLtDUR2FTofbyxZ) [12/09/2019--15/09/2019]
 
 * Finished my internship in [Sunline Tech Co.,LTD](http://www.sunline.cn/) working on knowledge graph and data mining as an intern SDE [08/07/2019--10/08/2019]
 
-* Took part in Havard Summer School studying "Cross-Platform Software Development with Xamarin" supervised by [Prof. David.S.Platt](http://www.rollthunder.com/PlattBio.htm) [11/07/2018——02/08/2018]
+* Took part in Havard Summer School studying "Cross-Platform Software Development with Xamarin" supervised by [Prof. David.S.Platt](http://www.rollthunder.com/PlattBio.htm) [11/07/2018--02/08/2018]
 
 * Took part in Cambridge University Overseas Development Program! [22/01/2018--08/02/2018]
 
@@ -47,6 +47,10 @@ Memorable Experience
 
 Miscellaneous
 ------
-* I am now the tennis team leader of School of Computer Sciene, Wuhan University, and also a team member of WHU school team. I led my team to be in QF and I got the fifth place myself in "Wuhan University Tennis Open 2019". Here are some photos to share
+* I am now the tennis team leader of School of Computer Sciene, Wuhan University, and also a team member of WHU school team. I led my team to be in QF and I got the [fifth place](https://www.frankgqluo.xyz/images/tennis.jpg) myself in "Wuhan University Tennis Open 2019". Here are some photos to share.
 
 * I'm a basketball fan (of LeBron James and LA Lakers) and played SG, I am great at three-point shots and my nickname in middle/high school is "Luo Allen" (Homophonic to "Ray Allen"), although I seldom play basketball now.
+
+* My favorite players are Roger Federer, Cristiano Ronaldo and LeBron James and Michael Jordan, I find great players all have a stable and long-lasting professional career.
+
+* I am a big fan of Taylor Swift, I went to see her conert once in Gillette Stadium, Boston in 2018, which was deeply impressive! Here are some photos to share

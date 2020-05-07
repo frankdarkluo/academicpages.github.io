@@ -7,27 +7,25 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a junior student majoring in [Computer Science](https://cs.whu.edu.cn/) in [Wuhan Univeristy](https://www.whu.edu.cn/). Currently I am a member of [WHU NLPLab](https://github.com/WHUNLPLab) led by [Prof.Min Peng](http://cs.whu.edu.cn/teacherinfo.aspx?id=271). My research interest includes information extraction, social network analysis and text generation. Previously I was a visiting student at the [Cambridge University](), [Havrard University](https://www.harvard.edu/) and finished several projects during the programs.
+I am a junior student majoring in [Computer Science](https://cs.whu.edu.cn/) in [Wuhan Univeristy](https://www.whu.edu.cn/). Currently I am a member of [WHU NLPLab](https://github.com/WHUNLPLab) led by [Prof.Min Peng](http://cs.whu.edu.cn/teacherinfo.aspx?id=271). My research interest includes information extraction, social network analysis and text generation. Previously I was a visiting student at the [Cambridge University](), [Havrard University](https://www.harvard.edu/) and finished several projects during those programs.
 
 About me
 ------
-In my normal life, I like playing tennis and watch foreign movies, and I spare no efforts to study and do research in the lab during the rest of my time. I love to communicate with others about everything. Active thinking is my biggest advantage, because I always manage to find effective approaches to solve problems. "Craftsmanship" is my motto.
+In my normal life, I like playing tennis and watch foreign movies, and I spare no efforts to study and do research in the lab during the rest of my time. I love to communicate with others about everything. Active thinking is my biggest advantage, because I always manage to find effective approaches to solve problems. 
 
 I also care for environmental problems in earth, I once volunteered in Nil Manel Foundation in Sri Lanka to protect sea turtles and orphan elephants for 7 days and learned a lot from the experience, you may read it from my article [here](https://mp.weixin.qq.com/s?__biz=MzUwOTgyMTQxMA==&mid=2247483873&idx=1&sn=34bfba657e38b8c702f2ad1b5bd0c237&chksm=f90d296cce7aa07a926d8400d5eaf0192c3d70904ef1655744196a2370b34607603a0e4305c3&scene=126&sessionid=1588782409&key=0cfe94fe0f64e8a52d9ea2bd9abfd3ee8c5ef466256a21552616e5f9aa6b0334e3da898bf1646d8708073f2dfd5af72d8a6f3e4d389f8006e187d7d98fa6d2839d01dee483de179d2c382dd558151597&ascene=1&uin=MjA5NDMxNTA3Nw%3D%3D&devicetype=Windows+10+x64&version=62090072&lang=zh_CN&exportkey=AUBRzmLoJPeFaEIdecUzdck%3D&pass_ticket=WlRlSldhXFMdSGTO73zGQiFBiIhTtuGOYbLMtrJSo0kL%2BFT%2Beo143OVLAg4qdLEF)
 
 Besides, I hope everyone be safe in 2020, **stay at home** and take good care of yourself.
 
-
 News
 ------
 * [04/2020] The team I lead wins [Honorable Mention Award](https://www.frankgqluo.xyz/files/H.jpg) in Mathematical Contest In Modeling (MCM) with my teammate JianDing Zhang and Xi Chen!
 
-* [03/2020] I become a research intern in [StatNLP](https://statnlp-research.github.io/) supervised by [Prof.Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei)!
+* [03/2020] I become a research intern in [StatNLP](https://statnlp-research.github.io/) supervised by [Prof.Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei)! Looking forward to going to Singapore in summer!
 
 * [11/2019] The team I lead wins Second Prize of National Award (top 9% of 42292 teams) in CUMCM 2019 with my teammate YangLanDuo Deng and Qin Yin!
 
-* [09/2019] Join Prof.Min Peng’s research lab on NLP from September 2019 at School of Computer Science, Wuhan University, Looking forward to doing research on NLP!
-
+* [09/2019] Join Prof.Min Peng’s WHUNLP lab at School of Computer Science, Wuhan University, Looking forward to doing research on NLP!
 
 Memorable Experience
 ------
@@ -47,10 +45,13 @@ Memorable Experience
 
 Miscellaneous
 ------
-* I am now the tennis team leader of School of Computer Sciene, Wuhan University, and also a team member of WHU school team. I led my team to be in QF and I got the [fifth place](https://www.frankgqluo.xyz/images/tennis.jpg) myself in "Wuhan University Tennis Open 2019". Here are some photos to share.
+* "Craftsmanship" is my motto.
+
+* I am now the tennis team leader of School of Computer Sciene, Wuhan University, and also a team member of WHU school team. I led my team to be in QF and I got the [fifth place](https://www.frankgqluo.xyz/images/tennis.jpg) myself in "Wuhan University Tennis Open 2019".
 
 * I'm a basketball fan (of LeBron James and LA Lakers) and played SG, I am great at three-point shots and my nickname in middle/high school is "Luo Allen" (Homophonic to "Ray Allen"), although I seldom play basketball now.
 
 * My favorite players are Roger Federer, Cristiano Ronaldo and LeBron James and Michael Jordan, I find great players all have a stable and long-lasting professional career.
 
-* I am a big fan of Taylor Swift, I went to see her conert once in Gillette Stadium, Boston in 2018, which was deeply impressive! Here are some photos to share
+* I am a big fan of Taylor Swift, I went to see her conert once in Gillette Stadium, Boston in 2018, which was deeply impressive! Here are [some photos](https://drive.google.com/open?id=1W7U1VDWUdhYOfxzrXYXIoCXGAYjygHrL) to share.
+

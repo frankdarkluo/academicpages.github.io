@@ -12,7 +12,7 @@ redirect_from:
     margin: 0 0 0em;
 }
 a{
-	color:#7c1313;
+	text-decoration: none;
 }
 ul li, ol li {
     margin-bottom: 0.em;

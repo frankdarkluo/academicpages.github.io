@@ -14,7 +14,7 @@ redirect_from:
 p{
     /*margin: 0;*/
     /*padding: -30;*/
-    /*line-height: 15px;*/
+    /*line-height: 30px;*/
 }
 a{
 	color:#7c1313;

@@ -19,7 +19,7 @@ p{
 a{
 	color:#7c1313;
 }
-ul{
+<!-- ul{
     /*margin: 0;*/
     /*padding: -30;*/
     line-height: 15px;
@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
 	padding-bottom: 0.2em;
 	margin: 1em 0 0.5em;
 	border-bottom: 2px solid #f2f3f3;
-}
+} -->
 </style>
 
 I am a junior student majoring in [Computer Science](https://cs.whu.edu.cn/) in [Wuhan Univeristy](https://www.whu.edu.cn/). Currently I am a member of [WHU NLPLab](https://github.com/WHUNLPLab) led by [Prof.Min Peng](http://cs.whu.edu.cn/teacherinfo.aspx?id=271). My research interest includes information extraction, social network analysis and text generation. Previously I was a visiting student at the [Cambridge University](), [Havrard University](https://www.harvard.edu/) and finished several projects during those programs.

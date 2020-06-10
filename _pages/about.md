@@ -15,7 +15,7 @@ a{
 	color:#7c1313;
 }
 </style> 
-<font>I am a junior student majoring in [Computer Science](https://cs.whu.edu.cn/) in [Wuhan Univeristy](https://www.whu.edu.cn/). Currently I am a member of [WHU NLPLab](https://github.com/WHUNLPLab) led by [Prof.Min Peng](http://cs.whu.edu.cn/teacherinfo.aspx?id=271). My research interest includes information extraction, social network analysis and text generation. Previously I was a visiting student at the [Cambridge University](), [Havrard University](https://www.harvard.edu/) and finished several projects during those programs. </font>
+<font size="+2">I am a junior student majoring in [Computer Science](https://cs.whu.edu.cn/) in [Wuhan Univeristy](https://www.whu.edu.cn/). Currently I am a member of [WHU NLPLab](https://github.com/WHUNLPLab) led by [Prof.Min Peng](http://cs.whu.edu.cn/teacherinfo.aspx?id=271). My research interest includes information extraction, social network analysis and text generation. Previously I was a visiting student at the [Cambridge University](), [Havrard University](https://www.harvard.edu/) and finished several projects during those programs. </font>
 
 About me
 ------

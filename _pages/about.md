@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 <style>
-.page__content p {
+<!-- .page__content p {
     margin: 0 0 0em;
 }
 p{
     /*margin: 0;*/
     /*padding: -30;*/
     /*line-height: 30px;*/
-}
+} -->
 a{
 	color:#7c1313;
 }

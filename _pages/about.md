@@ -11,9 +11,6 @@ redirect_from:
 .page__content p {
     margin: 0 0 0em;
 }
-a{
-	text-decoration: none;
-}
 ul li, ol li {
     margin-bottom: 0.em;
 }

@@ -9,7 +9,7 @@ redirect_from:
 ---
 <style>
 .page__content p {
-    margin: 0 0 0em;
+    
 }
 ul li, ol li {
     margin-bottom: 0.em;

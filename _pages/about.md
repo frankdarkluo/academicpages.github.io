@@ -18,6 +18,8 @@ ul li, ol li {
 {% include base_path %} 
 I am a junior student majoring in [Computer Science](https://cs.whu.edu.cn/) in [Wuhan Univeristy](https://www.whu.edu.cn/). Currently I am a member of [WHU NLPLab](https://github.com/WHUNLPLab) led by [Prof.Min Peng](http://cs.whu.edu.cn/teacherinfo.aspx?id=271). My research interest includes information extraction, social network analysis and dialogue system. Previously I was a visiting student at [Cambridge University](https://www.cam.ac.uk/) and [Harvard University](https://www.harvard.edu/), I finished several projects during these programs.
 
+**I am actively looking for a PhD position in 2021 Fall.**
+
 About me
 ------
 In my normal life, I like playing tennis and watching foreign movies, and I spare no efforts to study and do research in the lab during the rest of my time. I love to communicate with others about everything. Active thinking is my biggest advantage, and I always try to find effective approaches to solve problems. 

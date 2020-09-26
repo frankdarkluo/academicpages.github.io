@@ -16,9 +16,7 @@ ul li, ol li {
 }
 </style> 
 {% include base_path %} 
-I am a junior student majoring in [Computer Science](https://cs.whu.edu.cn/) in [Wuhan Univeristy](https://www.whu.edu.cn/). Currently I am a member of [WHU NLPLab](https://github.com/WHUNLPLab) led by [Prof.Min Peng](http://cs.whu.edu.cn/teacherinfo.aspx?id=271). My research interest includes information extraction, social network analysis and dialogue system. Previously I was a visiting student at [Cambridge University](https://www.cam.ac.uk/) and [Harvard University](https://www.harvard.edu/), I finished several projects during these programs.
-
-**I am actively looking for a PhD position in 2021 Fall.**
+I am a junior student majoring in [Computer Science](https://cs.whu.edu.cn/) in [Wuhan Univeristy](https://www.whu.edu.cn/). Currently I am a research intern in [WHU NLPLab](https://github.com/WHUNLPLab) led by [Prof.Min Peng](http://cs.whu.edu.cn/teacherinfo.aspx?id=271). My research interest includes information extraction, machine learning, computational social science and dialogue system. Previously I was a visiting student at [Cambridge University](https://www.cam.ac.uk/) and [Harvard University](https://www.harvard.edu/), I finished several projects during these programs.
 
 About me
 ------
@@ -30,6 +28,8 @@ Besides, I hope everyone be safe in 2020, **stay at home** and take good care of
 
 News
 ------
+* [07/2020] I get *S. I. Komarova* Scholarship for academic excellence of Valeon Scholarship program!
+
 * [05/2020] I pass the first round of [CUHK Early Admission](https://dept-eappsrv.cse.cuhk.edu.hk/pgas2021/)!
 
 * [04/2020] The team I lead wins [Honorable Mention Award](https://www.frankgqluo.xyz/files/H.jpg) in Mathematical Contest In Modeling (MCM) with my teammate JianDing Zhang and Xi Chen!

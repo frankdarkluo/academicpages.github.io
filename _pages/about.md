@@ -28,7 +28,7 @@ Besides, I hope everyone be safe in 2020, **stay at home** and take good care of
 
 News
 ------
-* [01/2020] I become a NLP research intern in ByteDance AI Lab Voice Group!
+* [01/2021] I become a NLP research intern in ByteDance AI Lab Voice Group!
 
 * [07/2020] I get *S. I. Komarova* Scholarship for academic excellence of Valeon Scholarship program!
 

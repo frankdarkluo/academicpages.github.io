@@ -28,6 +28,8 @@ Besides, I hope everyone be safe in 2020, **stay at home** and take good care of
 
 News
 ------
+* [03/2021] I will be a thesis-based master in the Computing Science Department at [University of Alberta](https://www.ualberta.ca/index.html).
+
 * [01/2021] I become a NLP research intern in ByteDance AI Lab Voice Group!
 
 * [07/2020] I get *S. I. Komarova* Scholarship for academic excellence of Valeon Scholarship program!

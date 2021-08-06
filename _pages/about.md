@@ -28,6 +28,8 @@ Besides, I hope everyone be safe in 2020, **stay at home** and take good care of
 
 News
 ------
+* [06/2021] I graduated from Wuhan University.
+
 * [03/2021] I will be a thesis-based master in the Computing Science Department at [University of Alberta](https://www.ualberta.ca/index.html).
 
 * [01/2021] I become a NLP research intern in ByteDance AI Lab Voice Group!
@@ -41,8 +43,6 @@ News
 * [03/2020] I become a research intern in [StatNLP](https://statnlp-research.github.io/) supervised by [Prof.Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei)! Looking forward to going to Singapore in summer!
 
 * [11/2019] The team I lead wins [National Second Prize](https://www.frankgqluo.xyz/images/cumcm.jpg) (top 9% of 42292 teams) in CUMCM 2019 with my teammate YangLanDuo Deng and Qin Yin!
-
-* [09/2019] Join Prof.Min Peng’s WHUNLP lab at School of Computer Science, Wuhan University, Looking forward to doing research on NLP!
 
 Memorable Experience
 ------

@@ -94,12 +94,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "guoqing.luo.75"
+  facebook         : #"guoqing.luo.75"
   foursquare       :
   github           : "frankdarkluo"
   google_plus      :
   keybase          :
-  instagram        : "frank_dark_luo"
+  instagram        : #"frank_dark_luo"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "guoqing-luo-5a2657198"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "FrankDarkLuo"
+  twitter          : #"FrankDarkLuo"
   vine             :
   weibo            :
   xing             :

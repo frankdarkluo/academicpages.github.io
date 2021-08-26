@@ -16,7 +16,9 @@ ul li, ol li {
 }
 </style> 
 {% include base_path %} 
-I am a senior student majoring in [Computer Science](https://cs.whu.edu.cn/) in [Wuhan Univeristy](https://www.whu.edu.cn/). Currently I am a research intern in [WHU NLPLab](https://github.com/WHUNLPLab) led by [Prof.Min Peng](http://cs.whu.edu.cn/teacherinfo.aspx?id=271). My research interest includes information extraction, machine learning, computational social science and dialogue system. Previously I was a visiting student at [Cambridge University](https://www.cam.ac.uk/) and [Harvard University](https://www.harvard.edu/), I finished several projects during these programs.
+I am Guoqing Luo, an incoming thesis-based master student at [University of Alberta](https://www.ualberta.ca/index.html). Currently I am supervised by [Prof. Lili Mou](https://lili-mou.github.io/) in [Alberta NLP Lab](https://github.com/MANGA-UOFA). I received my bachelor's degree from [School of Computer Science](https://cs.whu.edu.cn/) in [Wuhan Univeristy](https://www.whu.edu.cn/), advised by [Prof. Min Peng](http://cs.whu.edu.cn/teacherinfo.aspx?id=271) and [Prof. Rong Xie](http://cs.whu.edu.cn/teacherinfo.aspx?id=368). 
+
+My research interest includes information extraction, machine learning, computational social science and dialogue system. Previously I was a visiting student at [Cambridge University](https://www.cam.ac.uk/) and [Harvard University](https://www.harvard.edu/), I finished several projects during these programs. Please check my CV for further information.
 
 About me
 ------
@@ -28,15 +30,15 @@ Besides, I hope everyone be safe in 2021, **stay at home** and take good care of
 
 News
 ------
+* [08/2021] Got my first paper accepted to **EMNLP 2021**. Thanks to all my collaborators!
+
 * [06/2021] I graduated from Wuhan University.
 
 * [03/2021] I will be a thesis-based master in the Computing Science Department at [University of Alberta](https://www.ualberta.ca/index.html).
 
-* [01/2021] I become a NLP research intern in ByteDance AI Lab Voice Group!
+* [01/2021] I become a NLP research intern in ByteDance AI Lab SA Group!
 
 * [07/2020] I get *S. I. Komarova* Scholarship for academic excellence of Valeon Scholarship program!
-
-* [05/2020] I pass the first round of [CUHK Early Admission](https://dept-eappsrv.cse.cuhk.edu.hk/pgas2021/)!
 
 * [04/2020] The team I lead wins [Honorable Mention Award](https://www.frankgqluo.xyz/files/H.jpg) in Mathematical Contest In Modeling (MCM) with my teammate JianDing Zhang and Xi Chen!
 

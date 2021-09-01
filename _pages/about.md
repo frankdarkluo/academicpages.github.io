@@ -16,7 +16,7 @@ ul li, ol li {
 }
 </style> 
 {% include base_path %} 
-I am Guoqing Luo, an incoming thesis-based master student at [University of Alberta](https://www.ualberta.ca/index.html). Currently I am supervised by [Prof. Lili Mou](https://lili-mou.github.io/) in [Alberta NLP Lab](https://github.com/MANGA-UOFA). I received my bachelor's degree from [School of Computer Science](https://cs.whu.edu.cn/) in [Wuhan Univeristy](https://www.whu.edu.cn/), advised by [Prof. Min Peng](http://cs.whu.edu.cn/teacherinfo.aspx?id=271) and [Prof. Rong Xie](http://cs.whu.edu.cn/teacherinfo.aspx?id=368). 
+I am Guoqing Luo, a first year thesis-based master student at [University of Alberta](https://www.ualberta.ca/index.html). Currently I am supervised by [Prof. Lili Mou](https://lili-mou.github.io/) in [Alberta NLP Lab](https://github.com/MANGA-UOFA). I received my bachelor's degree from [School of Computer Science](https://cs.whu.edu.cn/) in [Wuhan Univeristy](https://www.whu.edu.cn/), advised by [Prof. Min Peng](http://cs.whu.edu.cn/teacherinfo.aspx?id=271) and [Prof. Rong Xie](http://cs.whu.edu.cn/teacherinfo.aspx?id=368). 
 
 My research interest includes information extraction, machine learning, computational social science and dialogue system. Previously I was a visiting student at [Cambridge University](https://www.cam.ac.uk/) and [Harvard University](https://www.harvard.edu/), I finished several projects during these programs. Please check my [CV](https://www.frankgqluo.xyz/files/CV.pdf) for further information.
 

@@ -44,7 +44,7 @@ News
 
 * [03/2020] I become a research intern in [StatNLP](https://statnlp-research.github.io/) supervised by [Prof.Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei)! Looking forward to going to Singapore in summer!
 
-* [11/2019] The team I lead wins [National Second Prize](https://www.frankgqluo.xyz/images/cumcm.jpg) (top 9% of 42292 teams) in CUMCM 2019 with my teammate YangLanDuo Deng and Qin Yin!
+* [11/2019] The team I lead wins [National Second Prize](https://www.frankgqluo.xyz/images/cumcm.jpg) (top 5% of 42292 teams) in CUMCM 2019 with my teammate YangLanDuo Deng and Qin Yin!
 
 Memorable Experience
 ------

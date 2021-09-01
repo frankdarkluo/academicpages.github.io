@@ -86,7 +86,7 @@ author:
   location         : "Wuhan, Hubei"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?hl=en&user=ggVTvKoAAAAJ&view_op=list_works&gmla=AJsN-F4kJDZ3ImM4uWZg-Vj5rCFxUaIcLtk4h4oPEbGr_y9ZjHZSe7QQGRr1no6dC-AwGuNpw4I-_tJrWK4g4G6bIOsRTdsSl2nW6nbbtaMP9mTGCsUVT5M #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

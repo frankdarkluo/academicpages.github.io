@@ -5,12 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+---
 
-{% include base_path %}
+See the full list on  [Google Scholar](https://scholar.google.com/citations?user=ggVTvKoAAAAJ&hl=en)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+---
+
+### [Speaker-Oriented Latent Structures for Dialogue-BasedRelation Extraction](https://arxiv.org/)
+Guoshun Nan, **Guoqing Luo**, Sicong Leng, Yao Xiao, and Wei Lu
+EMNLP 2021
+(To Appear)
+
+

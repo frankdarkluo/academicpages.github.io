@@ -1,10 +1,10 @@
 ---
 permalink: /calendar/
-title: "calendar"
+title: "Calendar"
 author_profile: true
 redirect_from: 
   - /md/
-  - /Calendar.html
+  - /calendar.html
 ---
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">

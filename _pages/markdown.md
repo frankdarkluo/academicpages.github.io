@@ -18,7 +18,6 @@ ga('send', 'pageview');
 </script>
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>Yongchang Hao (郝永昌) - Homepage</title>
 </head>
 <body>
 <table summary="Table for page layout." id="tlayout">
@@ -27,7 +26,7 @@ ga('send', 'pageview');
 <div id="toptitle">
 <h1>Calendars</h1>
 </div>
-<iframe src="https://calendar.google.com/calendar/embed?height=1130&wkst=1&bgcolor=%23ffffff&ctz=America%2FEdmonton&src=eW9uZ2NoYW5naGFvLndAZ21haWwuY29t&src=eW9uZ2NoYTFAdWFsYmVydGEuY2E&color=%23D50000&color=%230B8043&mode=WEEK&title=Events" style="border-width:0" width="800" height="1130" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/u/0/r?cid=Z2x1b0B1YWxiZXJ0YS5jYQ" style="border-width:0" width="800" height="1130" frameborder="0" scrolling="no"></iframe>
 <div id="footer">
 <div id="footer-text">
 Page generated 2021-09-01 18:52:08 MDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
@@ -38,3 +37,4 @@ Page generated 2021-09-01 18:52:08 MDT, by <a href="http://jemdoc.jaboc.net/">je
 </table>
 </body>
 </html>
+

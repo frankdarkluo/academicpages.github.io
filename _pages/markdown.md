@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-<!-- title: "Markdown" -->
+title: "Markdown"
 author_profile: true
 redirect_from: 
   - /md/
@@ -23,9 +23,6 @@ ga('send', 'pageview');
 <table summary="Table for page layout." id="tlayout">
 <tr valign="top">
 <td id="layout-content">
-<div id="toptitle">
-<h1>Calendars</h1>
-</div>
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FEdmonton&src=Z2x1b0B1YWxiZXJ0YS5jYQ&color=%23039BE5&showTitle=0&showNav=1&showPrint=1&showCalendars=1&mode=WEEK" style="border:solid 1px #777" width="750" height="600" frameborder="0" scrolling="no"></iframe>
 <div id="footer">
 </div>

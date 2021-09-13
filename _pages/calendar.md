@@ -1,6 +1,6 @@
 ---
 permalink: /calendar/
-title: 
+title: Events
 author_profile: true
 redirect_from: 
   - /md/
@@ -13,7 +13,7 @@ redirect_from:
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <script>
 window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-191897386-1', 'auto');
+ga('create', 'UA-172742011-1', 'auto');
 ga('send', 'pageview');
 </script>
 <script async src='https://www.google-analytics.com/analytics.js'></script>

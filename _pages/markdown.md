@@ -26,7 +26,7 @@ ga('send', 'pageview');
 <div id="toptitle">
 <h1>Calendars</h1>
 </div>
-<iframe src="https://calendar.google.com/calendar/embed?src=gluo%40ualberta.ca&ctz=America%2FEdmonton" style="border-width:0" width="800" height="1130" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FEdmonton&src=Z2x1b0B1YWxiZXJ0YS5jYQ&color=%23039BE5&showTitle=0&showNav=1&showPrint=1&showCalendars=1" style="border:solid 1px #777" width="750" height="600" frameborder="0" scrolling="no"></iframe>
 <div id="footer">
 <div id="footer-text">
 Page generated 2021-09-01 18:52:08 MDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.

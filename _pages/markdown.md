@@ -23,11 +23,6 @@ ga('send', 'pageview');
 <body>
 <table summary="Table for page layout." id="tlayout">
 <tr valign="top">
-<td id="layout-menu">
-<div class="menu-item"><a href="index.html">Home</a></div>
-<div class="menu-item"><a href="pubs.html">Publications</a></div>
-<div class="menu-item"><a href="calendars.html" class="current">Calendars</a></div>
-</td>
 <td id="layout-content">
 <div id="toptitle">
 <h1>Calendars</h1>

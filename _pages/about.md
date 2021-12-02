@@ -30,7 +30,7 @@ Besides, I hope everyone be safe in 2021, **stay at home** and take good care of
 
 News
 ------
-* [08/2021] Got my first paper accepted to **EMNLP 2021**. Thanks to all my collaborators!
+* [09/2021] Start my master at University of Alberta, Canada, highly excited about the study life!
 
 * [06/2021] I graduated from Wuhan University.
 

@@ -16,9 +16,9 @@ ul li, ol li {
 }
 </style> 
 {% include base_path %} 
-I am Guoqing Luo, a first year thesis-based master student at [University of Alberta](https://www.ualberta.ca/index.html). Currently I am supervised by [Prof. Lili Mou](https://lili-mou.github.io/) in [Alberta NLP Lab](https://github.com/MANGA-UOFA). I received my bachelor's degree from [School of Computer Science](https://cs.whu.edu.cn/) in [Wuhan Univeristy](https://www.whu.edu.cn/), advised by [Prof. Min Peng](http://cs.whu.edu.cn/teacherinfo.aspx?id=271) and [Prof. Rong Xie](http://cs.whu.edu.cn/teacherinfo.aspx?id=368). 
+I am Guoqing Luo, a first-year PhD student at [University of Alberta](https://www.ualberta.ca/index.html). Currently, I am supervised by [Prof. Lili Mou](https://lili-mou.github.io/) in [Alberta NLP Lab](https://github.com/MANGA-UOFA). I received my master's degree at [University of Alberta]([University of Alberta](https://www.ualberta.ca/index.html)), my bachelor's degree from [School of Computer Science](https://cs.whu.edu.cn/) in [Wuhan Univeristy](https://www.whu.edu.cn/).
 
-My research interest includes information extraction, machine learning, computational social science and dialogue system. Previously I was a visiting student at [Cambridge University](https://www.cam.ac.uk/) and [Harvard University](https://www.harvard.edu/), I finished several projects during these programs. Please check my [CV](https://www.frankgqluo.xyz/files/CV.pdf) for further information.
+My research interest includes machine learning, text generation and large language models. Previously I was a visiting student at [Cambridge University](https://www.cam.ac.uk/) and [Harvard University](https://www.harvard.edu/), I finished several projects during these programs. Please check my [CV](https://www.frankgqluo.xyz/files/CV.pdf) for further information.
 
 About me
 ------
@@ -30,6 +30,8 @@ Besides, I hope everyone be safe in 2021, **stay at home** and take good care of
 
 News
 ------
+* [10/2023] Got my first first-author paper accepted to EMNLP 2023 findings, thanks to all the collaborators!
+
 * [04/2022] Got a papper accepted to LREC 2022, thanks to all the collaborators!
 
 * [09/2021] Start my master at University of Alberta, Canada, highly excited about the study life!
@@ -68,7 +70,7 @@ Miscellaneous
 ------
 * "Excelsior" is my motto.
 
-<!-- * I am now the tennis team leader of School of Computer Sciene, Wuhan University, and also a team member of WHU school team. I led my team to be in QF and I got the [fifth place](https://www.frankgqluo.xyz/images/tennis.jpg) myself in "Wuhan University Tennis Open 2019". -->
+<!-- * I was the tennis team leader of School of Computer Sciene, Wuhan University, and also a team member of WHU school team. I led my team to be in QF and I got the [fifth place](https://www.frankgqluo.xyz/images/tennis.jpg) myself in "Wuhan University Tennis Open 2019". -->
 
 * I'm also a basketball fan (of LeBron James and LA Lakers) and played SG. I am great at three-point shots and my nickname in middle/high school is "Luo Allen" (Homophonic to "Ray Allen"), although I seldom play basketball now.
 
